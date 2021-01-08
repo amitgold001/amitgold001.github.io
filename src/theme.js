@@ -96,7 +96,7 @@ export const violetTheme = {
 };
 
 export const greenTheme = {
-  body: "#E6FAF5",
+   body: "#c9fef8",
   text: "#084c61",
   highlight: "#9BEED8",
   dark: "#031E26",
